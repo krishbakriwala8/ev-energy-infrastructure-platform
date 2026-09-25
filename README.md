@@ -1,4 +1,5 @@
 # German Energy & EV Infrastructure Intelligence Platform
+[![Pipeline Smoke Test](https://github.com/krishbakriwala8/ev-energy-infrastructure-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/krishbakriwala8/ev-energy-infrastructure-platform/actions/workflows/ci.yml)
 
 An end-to-end data platform that answers: **Where does Germany need more EV
 charging infrastructure, how is electricity demand changing, and what will
